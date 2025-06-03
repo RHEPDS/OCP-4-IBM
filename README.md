@@ -10,7 +10,8 @@
 + 14:40 - 16:00 Platform Services, KNative, CI/CD, GitOps, Application Services...
 + 16:00 - 17:00 Hands-On Lab, "OpenShift Overview and Development"
 
-### Slides Day One: https://github.com/RHEPDS/OCP-Deloitte/blob/main/slides/OpenShift%20Overview%20for%20Deloitte.pdf
+### Slides Day One: 
+### https://github.com/RHEPDS/OCP-Deloitte/blob/main/slides/OpenShift%20Overview%20for%20Deloitte.pdf
 
 ### Day 2 - OpenShift Virtualisation 
 
@@ -20,4 +21,5 @@
 + 15:10 - 16:00 Partner Ecosystem and Customer Experience
 + 16:00 - 17:00 Hands-On LAB "OpenSHift Virtualisation"
 
-### Slides Day Two: https://github.com/RHEPDS/OCP-Deloitte/blob/main/slides/OpenShift%20Virtualization%20Overview.pdf
+### Slides Day Two: 
+### https://github.com/RHEPDS/OCP-Deloitte/blob/main/slides/OpenShift%20Virtualization%20Overview.pdf
