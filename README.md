@@ -1,38 +1,23 @@
-# Repository for the OpenShift Virtualisation Training
+# Repository for the OpenShift Training for Deloitte
 
-Business Problem Statement 
-There is a unique market opportunity now (for CY25) for Red Hat to support customers in moving away from VMware-based infrastructure and onto an OpenShift based one due to recent moves by the new owner of VMware, Broadcom. A key business activity to drive this motion with customers is performing a Red Hat Virtualization Migration Assessment.  Currently, there are not enough technical sellers able to successfully position and get the commitment from customers to take this first step in their migration away from VMWare.
+## Agenda
 
-## Workshop Learning Outcomes
+### Day 1 - OpenShift Container Platform
 
-### Proposed Final Outcomes PRESALES
++ 13:00 - 13:15 Welcome and Introduction
++ 13:15 - 14:30 OpenShift Overview, Architecture, Installation, Networking, and Observability
++ 14:30 - 14:40 BREAK
++ 14:40 - 16:00 Platform Services, KNative, CI/CD, GitOps, Application Services...
++ 16:00 - 17:00 Hands-On Lab, "OpenShift Overview and Development"
 
-* Identify and qualify opportunities for a Virtualization Migration Assessment.
-* Position the business and technical value of the Virtualization Migration Assessment.
-* Handle technical or business competitive situations as appropriate.
-* Determine when and where to engage an Ecosystem partner to support a Virtualization Migration Assessment.
-* Perform an upfront Technical Discovery and Risk Assessment.
-* Scope a Proof of Concept for OpenShift Virtualization
-* Communicate technical value during the delivery of the Virtualization Roadshow.
+### Slides Day One: https://github.com/RHEPDS/OCP-Deloitte/blob/main/slides/OpenShift%20Overview%20for%20Deloitte.pdf
 
-https://github.com/RHEPDS/VMA-PArtner-WS/tree/main/VMA-virt-presales-emea
+### Day 2 - OpenShift Virtualisation 
 
-Slides: 
-* https://github.com/RHEPDS/VMA-Partner-WS/blob/main/VMA-virt-presales-emea/VMA%20Partner%20Pre%20Sales%20Workshop.pdf
++ 13:00 - 13:15 Recap Day One
++ 13:15 - 15:00 OpenShift Virt Overview and Demo
++ 15:00 - 15:10 BREAK
++ 15:10 - 16:00 Partner Ecosystem and Customer Experience
++ 16:00 - 17:00 Hands-On LAB "OpenSHift Virtualisation"
 
-* Risk Assessment
-* https://github.com/RHEPDS/VMA-Partner-WS/blob/main/VMA-virt-presales-emea/Virtualization%20Migration%20-%20Upfront%20Technical%20Discovery%20%26%20Risk%20Assessment.pdf
-
-### Proposed Final Outcomes Deep Dive
-
-* Understand Virtualization architecture design, including HCP, networking, storage, ISV considerations, and example use cases
-* Perform Production-readiness for OpenShift Virt deployments 
-* Stand up migration factory (AAP)
-* Identify, automate, and execute on migration use cases 
-* Convey knowledge of ISV/third-party workflow ecosystems around virtualization
-* Understand Day 2 Operations with AAP 
-
-https://github.com/RHEPDS/VMA-Partner-WS/tree/main/VMA-tech-deep-dive
-
-Slides:
-* https://github.com/RHEPDS/VMA-Partner-WS/blob/main/VMA-tech-deep-dive/VMA-tech-Virtualization%20DeepDive.pdf
+### Slides Day Two: https://github.com/RHEPDS/OCP-Deloitte/blob/main/slides/OpenShift%20Virtualization%20Overview.pdf
