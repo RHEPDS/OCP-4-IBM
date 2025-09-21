@@ -10,10 +10,10 @@
 + 12:00 - 14:00 Lunch an Hands-On Lab, "OpenShift Overview and Development"
 
 + LAB Link 1: https://catalog.demo.redhat.com/workshop/xavntt
-+ LAB Link 2: 
++ LAB Link 2: https://catalog.demo.redhat.com/workshop/3cgnrf
 
 ### Slides: 
-### https://github.com/RHEPDS/
+### https://github.com/RHEPDS/OCP-Fujitsu/blob/main/slides/OpenShift%20Overview%20for%20Fujitsu.pdf
 
 ### Day 2 - OpenShift Virtualisation 
 
@@ -24,5 +24,5 @@
 + 16:00 - 17:00 Hands-On LAB "OpenShift Virtualisation"
 
 
-### Slides Day Two: 
-### https://github.com/RHEPDS/OCP-Deloitte/blob/main/slides/OpenShift%20Virtualization%20Overview.pdf
+### Slides: 
+### https://github.com/RHEPDS/
