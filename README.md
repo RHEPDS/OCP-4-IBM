@@ -1,25 +1,28 @@
-# Repository for the OpenShift Training for Deloitte
+# Repository for the OpenShift Training for Fujitsu
 
 ## Agenda
 
-### Day 1 - OpenShift Container Platform
+### OpenShift Container Platform
++ 09:30 - 09:45 Welcome and Introduction
++ 09:45 - 11:30 OpenShift Overview, Architecture, Installation, Networking, and Observability
++ 11:30 - 11:40 BREAK
++ 11:40 - 12:00 Platform Services, KNative, CI/CD, GitOps, Application Services...
++ 12:00 - 14:00 Lunch an Hands-On Lab, "OpenShift Overview and Development"
 
-+ 13:00 - 13:15 Welcome and Introduction
-+ 13:15 - 14:30 OpenShift Overview, Architecture, Installation, Networking, and Observability
-+ 14:30 - 14:40 BREAK
-+ 14:40 - 16:00 Platform Services, KNative, CI/CD, GitOps, Application Services...
-+ 16:00 - 17:00 Hands-On Lab, "OpenShift Overview and Development"
++ LAB Link 1:
++ LAB Link 2:
 
-### Slides Day One: 
-### https://github.com/RHEPDS/OCP-Deloitte/blob/main/slides/OpenShift%20Overview%20for%20Deloitte.pdf
+### Slides: 
+### https://github.com/RHEPDS/
 
 ### Day 2 - OpenShift Virtualisation 
 
-+ 13:00 - 13:15 Recap Day One
-+ 13:15 - 15:00 OpenShift Virt Overview and Demo
++ 14:00 - 14:15 Recap
++ 14:15 - 15:00 OpenShift Virt Overview and Demo
 + 15:00 - 15:10 BREAK
 + 15:10 - 16:00 Partner Ecosystem and Customer Experience
-+ 16:00 - 17:00 Hands-On LAB "OpenSHift Virtualisation"
++ 16:00 - 17:00 Hands-On LAB "OpenShift Virtualisation"
+
 
 ### Slides Day Two: 
 ### https://github.com/RHEPDS/OCP-Deloitte/blob/main/slides/OpenShift%20Virtualization%20Overview.pdf
