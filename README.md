@@ -9,8 +9,8 @@
 + 11:40 - 12:00 Platform Services, KNative, CI/CD, GitOps, Application Services...
 + 12:00 - 14:00 Lunch an Hands-On Lab, "OpenShift Overview and Development"
 
-+ LAB Link 1:
-+ LAB Link 2:
++ LAB Link 1: https://catalog.demo.redhat.com/workshop/xavntt
++ LAB Link 2: 
 
 ### Slides: 
 ### https://github.com/RHEPDS/
