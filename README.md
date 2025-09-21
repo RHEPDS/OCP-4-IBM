@@ -12,8 +12,7 @@
 + LAB Link 1: https://catalog.demo.redhat.com/workshop/xavntt
 + LAB Link 2: https://catalog.demo.redhat.com/workshop/3cgnrf
 
-### Slides: 
-### https://github.com/RHEPDS/OCP-Fujitsu/blob/main/slides/OpenShift%20Overview%20for%20Fujitsu.pdf
++ Slides: https://github.com/RHEPDS/OCP-Fujitsu/blob/main/slides/OpenShift%20Overview%20for%20Fujitsu.pdf
 
 ### Day 2 - OpenShift Virtualisation 
 
@@ -23,6 +22,4 @@
 + 15:10 - 16:00 Partner Ecosystem and Customer Experience
 + 16:00 - 17:00 Hands-On LAB "OpenShift Virtualisation"
 
-
-### Slides: 
-### https://github.com/RHEPDS/
++ Slides: https://github.com/RHEPDS/OCP-Fujitsu/blob/main/slides/OpenShift%20Virtualization%20Overview%204%20Fujitsu.pdf
