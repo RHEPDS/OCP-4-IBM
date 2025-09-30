@@ -9,10 +9,9 @@
 + 11:40 - 12:00 Platform Services, KNative, CI/CD, GitOps, Application Services...
 + 12:00 - 14:00 Lunch an Hands-On Lab, "OpenShift Overview and Development"
 
-+ LAB Link 1: https://catalog.demo.redhat.com/workshop/xavntt
-+ LAB Link 2: https://catalog.demo.redhat.com/workshop/3cgnrf
-
-+ Slides: https://github.com/RHEPDS/OCP-Fujitsu/blob/main/slides/OpenShift%20Overview%20for%20Fujitsu.pdf
++ LAB Link 1: 
++ LAB Link 2: 
++ Slides: 
 
 ### Day 2 - OpenShift Virtualisation 
 
@@ -22,4 +21,4 @@
 + 15:10 - 16:00 Partner Ecosystem and Customer Experience
 + 16:00 - 17:00 Hands-On LAB "OpenShift Virtualisation"
 
-+ Slides: https://github.com/RHEPDS/OCP-Fujitsu/blob/main/slides/OpenShift%20Virtualization%20Overview%204%20Fujitsu.pdf
++ Slides: 
