@@ -7,10 +7,10 @@
 + 09:45 - 11:30 OpenShift Overview, Architecture, Installation, Networking, and Observability
 + 11:30 - 11:40 BREAK
 + 11:40 - 12:00 Platform Services, KNative, CI/CD, GitOps, Application Services...
-+ 12:00 - 14:00 Lunch an Hands-On Lab, "OpenShift Overview and Development"
++ 12:00 - 14:00 Lunch and Hands-On Lab, "OpenShift Overview and Development"
 
-+ LAB Link 1: 
-+ LAB Link 2: 
++ LAB Link 1: https://catalog.demo.redhat.com/workshop/7nw9vw
++ LAB Link 2: https://catalog.demo.redhat.com/workshop/phc6u7
 + Slides: 
 
 ### Day 2 - OpenShift Virtualisation 
