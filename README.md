@@ -11,7 +11,7 @@
 
 + LAB Link 1: https://catalog.demo.redhat.com/workshop/7nw9vw
 + LAB Link 2: https://catalog.demo.redhat.com/workshop/phc6u7
-+ Slides: 
++ Slides: slides/OpenShift Overview .pdf
 
 ### Day 2 - OpenShift Virtualisation 
 
